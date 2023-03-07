@@ -9,3 +9,4 @@ Some argue that the outcome of basketball is relatively easy to predict compared
 ## Data: 
 
 For my analysis, I will be using data from NBA.com sourced through NBA_API. Because I am particularly interested in Celtics outcomes, I will be using data starting in 2014, which is when the core of the Celtics team that exists today began to form. Today's starters on the Celtics are Jayson Tatum, Jaylen Brown, Marcus Smart, Al Horford, and Rob Williams, who were all drafted or traded to the team between 2014 and 2018. NBA teams in general do not stay constant for long, with churning at an all-time high and contract lengths steadily decreasing, meaning that evaluating NBA team performance from decades ago should have little predictive power in the most recent seasons. 
+
